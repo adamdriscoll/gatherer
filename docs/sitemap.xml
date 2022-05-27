@@ -2,21 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://www.example.com/</loc>
+    <loc>https://adamdriscoll.github.io/gatherer/</loc>
     <lastmod>2022-05-27T11:47:50-06:00</lastmod>
   </url><url>
-    <loc>http://www.example.com/posts/my-first-post/</loc>
+    <loc>https://adamdriscoll.github.io/gatherer/posts/my-first-post/</loc>
     <lastmod>2022-05-27T11:47:50-06:00</lastmod>
   </url><url>
-    <loc>http://www.example.com/posts/</loc>
+    <loc>https://adamdriscoll.github.io/gatherer/posts/</loc>
     <lastmod>2022-05-27T11:47:50-06:00</lastmod>
   </url><url>
-    <loc>http://www.example.com/authors/</loc>
+    <loc>https://adamdriscoll.github.io/gatherer/authors/</loc>
   </url><url>
-    <loc>http://www.example.com/categories/</loc>
+    <loc>https://adamdriscoll.github.io/gatherer/categories/</loc>
   </url><url>
-    <loc>http://www.example.com/series/</loc>
+    <loc>https://adamdriscoll.github.io/gatherer/series/</loc>
   </url><url>
-    <loc>http://www.example.com/tags/</loc>
+    <loc>https://adamdriscoll.github.io/gatherer/tags/</loc>
   </url>
 </urlset>

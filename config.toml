@@ -1,5 +1,5 @@
 
-baseURL = "http://www.example.com"
+baseURL = "https://adamdriscoll.github.io/gatherer/"
 title = "Adam Driscoll"
 theme = "hugo-coder"
 languageCode = "en"
