@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Adam Driscoll</title>
-    <link>https://adamdriscoll.github.io/gatherer/tags/</link>
+    <link>https://gatherers.online/tags/</link>
     <description>Recent content in Tags on Adam Driscoll</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://adamdriscoll.github.io/gatherer/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="https://gatherers.online/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

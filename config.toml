@@ -1,5 +1,5 @@
 
-baseURL = "https://adamdriscoll.github.io/gatherer/"
+baseURL = "https://gatherers.online"
 title = "Adam Driscoll"
 theme = "hugo-coder"
 languageCode = "en"
